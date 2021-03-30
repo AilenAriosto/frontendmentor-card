@@ -47,6 +47,7 @@ p {
   -webkit-box-shadow: 0px 0px 20px #19a2ae;
           box-shadow: 0px 0px 20px #19a2ae;
   margin: 20px;
+  height: 55vh;
 }
 
 .card-body {
